@@ -5,7 +5,7 @@ let colorPick;
 if (colorPick === undefined) {
   result.style.backgroundColor = window.localStorage.getItem("color");
 }
-
+  
 // ---------------Set Function
 
 // set color to items
